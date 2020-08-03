@@ -1,0 +1,13 @@
+C:\Users\Andoni\source\repos\BillInheritenceChallenge\BillInheritenceChallenge\bin\Debug\netcoreapp3.1\BillInheritenceChallenge.exe
+C:\Users\Andoni\source\repos\BillInheritenceChallenge\BillInheritenceChallenge\bin\Debug\netcoreapp3.1\BillInheritenceChallenge.deps.json
+C:\Users\Andoni\source\repos\BillInheritenceChallenge\BillInheritenceChallenge\bin\Debug\netcoreapp3.1\BillInheritenceChallenge.runtimeconfig.json
+C:\Users\Andoni\source\repos\BillInheritenceChallenge\BillInheritenceChallenge\bin\Debug\netcoreapp3.1\BillInheritenceChallenge.runtimeconfig.dev.json
+C:\Users\Andoni\source\repos\BillInheritenceChallenge\BillInheritenceChallenge\bin\Debug\netcoreapp3.1\BillInheritenceChallenge.dll
+C:\Users\Andoni\source\repos\BillInheritenceChallenge\BillInheritenceChallenge\bin\Debug\netcoreapp3.1\BillInheritenceChallenge.pdb
+C:\Users\Andoni\source\repos\BillInheritenceChallenge\BillInheritenceChallenge\obj\Debug\netcoreapp3.1\BillInheritenceChallenge.csprojAssemblyReference.cache
+C:\Users\Andoni\source\repos\BillInheritenceChallenge\BillInheritenceChallenge\obj\Debug\netcoreapp3.1\BillInheritenceChallenge.AssemblyInfoInputs.cache
+C:\Users\Andoni\source\repos\BillInheritenceChallenge\BillInheritenceChallenge\obj\Debug\netcoreapp3.1\BillInheritenceChallenge.AssemblyInfo.cs
+C:\Users\Andoni\source\repos\BillInheritenceChallenge\BillInheritenceChallenge\obj\Debug\netcoreapp3.1\BillInheritenceChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Andoni\source\repos\BillInheritenceChallenge\BillInheritenceChallenge\obj\Debug\netcoreapp3.1\BillInheritenceChallenge.dll
+C:\Users\Andoni\source\repos\BillInheritenceChallenge\BillInheritenceChallenge\obj\Debug\netcoreapp3.1\BillInheritenceChallenge.pdb
+C:\Users\Andoni\source\repos\BillInheritenceChallenge\BillInheritenceChallenge\obj\Debug\netcoreapp3.1\BillInheritenceChallenge.genruntimeconfig.cache
